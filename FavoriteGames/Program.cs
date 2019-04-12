@@ -12,8 +12,7 @@ namespace FavoriteGames
         {
             string gameResponse;
             string userResponse;
-            List<string> favoriteGames = new List<string>(); //Stored/made in heap
-            
+            List<string> favoriteGames = new List<string>(); //Stored/made in heap            
             
             bool done=true;
 
